@@ -2,6 +2,8 @@
 This is a very simple 2D physics-based sidescroller where the player controls a slime navigating a dungeon fighting evil monsters and collecting gems.
 There are 2 including the tutorial which are both very short to run eclipse should be used to build the pom which will generate an executable shaded jar.
 
+The entire project is coded in Java specifically using JavaFX for the GUI.
+
 There are also sound effects in the game, but to avoid redistributing them over github they should be downloaded and put into the music folder manually,
 or alternatively other sound files could be downloaded and renamed to fill the void in a "Music" package inside the src.
 
